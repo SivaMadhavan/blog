@@ -127,3 +127,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 #SETTINGS
 
 
+API_VERSION = 'v1'
